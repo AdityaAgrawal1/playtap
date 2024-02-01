@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Play Tap</string>
+    <string name="game_rules">Game Rules:</string>
+    <string name="_1_tap_the_grey_box_to_score_points">1. Tap the grey box to score points.</string>
+    <string name="_2_tapping_a_non_grey_box_ends_the_game">2. Tapping a non-grey box ends the game.</string>
+    <string name="_3_failing_to_tap_the_grey_box_within_1_second_also_ends_the_game">3. Failing to tap the grey box within 1 second also ends the game.</string>
+    <string name="score">Score:</string>
+    <string name="high_score">High Score:</string>
+</resources>
